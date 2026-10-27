@@ -1,0 +1,6 @@
+{
+  "name": "Mortah - منصة مرتَاح للخدمات اللوجستية والمحاسبة",
+  "description": "منظومة متكاملة لإدارة التوصيل والخدمات اللوجستية والمحاسبة المالية وإدارة المخزون لشركة مرتَاح في سوريا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
